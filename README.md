@@ -1,0 +1,1 @@
+# intelektualna-svojina-ruby
